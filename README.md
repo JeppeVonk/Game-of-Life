@@ -57,7 +57,7 @@ Ondersteun minstens een van de volgende opties:
 - Willekeurige initialisatie
 - Inlezen van een tekstbestand
 
-*(Extra opties zijn toegestaan)*
+*Extra opties zijn toegestaan.*
 
 ### 3. Evolutie
 
@@ -131,4 +131,3 @@ Schrijf kort (max. 1/2 pagina):
 - Welke datastructuren heb je gekozen en waarom?
 - Wat vond je lastig bij het implementeren?
 - Wat zou je anders doen in een andere programmeertaal?
-
